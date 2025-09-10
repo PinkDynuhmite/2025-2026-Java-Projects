@@ -1,8 +1,12 @@
 /*
  * Dylan Brown
  * Programming: For fun
- * September 7th - September 2025
- */
+ * September 7th - September 8th 2025
+A number guessing game
+The user has 3 attempts to guess numbers from 1-10.
+This game can be played multiple times. If the user
+doesn't wish to play again, the entire game will close
+*/
 import java.util.Scanner;
 import java.util.Random;
 import java.util.InputMismatchException;
